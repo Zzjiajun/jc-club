@@ -1,0 +1,7 @@
+com\jichi\subject\common\entity\Result.class
+com\jichi\subject\common\enums\SubjectInfoTypeEnum.class
+com\jichi\subject\common\entity\PageResult.class
+com\jichi\subject\common\entity\PageInfo.class
+com\jichi\subject\common\enums\ResultCodeEnum.class
+com\jichi\subject\common\enums\CategoryTypeEnum.class
+com\jichi\subject\common\enums\IsDeleteFlagEnum.class
