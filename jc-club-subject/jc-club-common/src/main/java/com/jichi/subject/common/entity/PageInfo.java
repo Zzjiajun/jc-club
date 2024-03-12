@@ -1,5 +1,7 @@
 package com.jichi.subject.common.entity;
 
+
+
 import lombok.Data;
 
 import java.io.Serializable;
